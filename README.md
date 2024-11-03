@@ -1,6 +1,7 @@
 These two mathematica codes can be used to reproduce the results in arXiv:2407.12914
 
 If you used the code, please cite
+
 @article{Li:2024lxx,
     author = "Li, Chong-Zhi and Yuan, Chen and Huang, Qing-guo",
     title = "{Gravitational Waves Induced by Scalar Perturbations with a Broken Power-law Peak}",
